@@ -1,0 +1,6 @@
+<layers>
+ <layer
+     name="listlessview"
+     interface="listlessview.interfaces.IAddonSpecific"
+     />
+</layers>
